@@ -3,13 +3,13 @@ About harissa-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/harissa-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/harissa-framework/harissa
+Home: https://github.com/ulysseherbach/harissa
 
 Package license: BSD-3-Clause
 
 Summary: Simulation and inference of gene regulatory networks based on transcriptional bursting
 
-Documentation: https://harissa-framework.github.io/harissa
+Documentation: https://ulysseherbach.github.io/harissa
 
 Integrated set of tools to perform mechanistic simulation and inference
 of gene regulatory networks from single-cell data, based on stochastic
